@@ -45,7 +45,7 @@ Toate resursele necesare concursului sunt disponibile pe [site-ul
 central][root]. Acesta cuprinde:
 
 * [lista contribuțiilor][contrib] participanților
-* o [listă][projects] cu posibile sugestii de proiecte
+* o [listă][proj] cu posibile sugestii de proiecte
 * link către lista publică de discuții: [upstream-challenge@lists.rosedu.org][uc]
 
   * pentru discuțiile legate de kernel programming, se poate folosi și lista
