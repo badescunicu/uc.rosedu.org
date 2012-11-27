@@ -22,20 +22,21 @@
    <a href="/" id="logo-header"></a>
 
   </div>
- 
-  {% if page.show_sidebar %}
+
+  {% if page.showsidebar %}
   <div class="right-sidebar">
       <h2>See also</h2>
       <ul>
-          <li><a href="/guidelines">Lists netiquette</a>
-          <p>Guidelines for a good communication.</p>
-          </li>
-          <li><a href="/listinfo">All lists &raquo;</a>
+          <li><a href="/regulament">Regulament</a></li>
+          <li><a href="/contrib">Contribuții</a></li>
+          <li><a href="/projects">Proiecte</a></li>
+          <li><a href="/news">Știri</a></li>
+          <li><a href="/res">Resurse</a></li>
           </li>
       </ul>
   </div> 
   {% endif %}
-          
+
   <div id="content">
       {{content}}
   </div>
