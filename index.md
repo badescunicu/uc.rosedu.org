@@ -25,8 +25,8 @@ Consultați [regulamentul][reg] și [resursele][res] disponibile, incluzând
 Concursul se va desfășura în perioada 27 noiembrie 2012 - 17 mai 2013.
 
 [ed1]: http://elf.cs.pub.ro/so/wiki/upstream-challenge "Upstream Challenge v0"
-[reg]: regulament "Regulament"
-[res]: res "Resurse utile"
-[contrib]: contrib "Statistici contribuții"
-[proj]: projects "Proiecte propuse"
-[news]: news "Noutăți"
+[reg]: /regulament "Regulament"
+[res]: /res "Resurse utile"
+[contrib]: /contrib "Statistici contribuții"
+[proj]: /projects "Proiecte propuse"
+[news]: /news "Noutăți"

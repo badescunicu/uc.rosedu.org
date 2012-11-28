@@ -26,11 +26,11 @@ showsidebar: true
 * [ROSEdu Tech Talks][talks]
 
 [ed1]: http://elf.cs.pub.ro/so/wiki/upstream-challenge "Upstream Challenge v0"
-[reg]: regulament "Regulament"
-[res]: res "Resurse utile"
-[contrib]: contrib "Statistici contribuții"
-[proj]: projects "Proiecte propuse"
-[news]: news "Noutăți"
+[reg]: /regulament "Regulament"
+[res]: /res "Resurse utile"
+[contrib]: /contrib "Statistici contribuții"
+[proj]: /projects "Proiecte propuse"
+[news]: /news "Noutăți"
 [root]: / "Upstream Challenge"
 [fb]: https://www.facebook.com/UpstreamChallenge "Facebook Page"
 [gp]: https://plus.google.com/u/0/b/113601665378127579242/113601665378127579242/posts "Google +"
