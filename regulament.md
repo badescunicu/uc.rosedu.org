@@ -9,9 +9,9 @@ showsidebar: true
 
 În ultimii ani, contribuțiile în Open Source ale studenților UPB sunt din în
 ce în ce mai vizibile. Cu sprijinul comunităților locale, al partenerilor din
-industrie și al oportunităților de forma Google Summer of Code, studenții își
-îmbunătățesc abilitățile de dezvoltare de aplicații, abilitățile colaborative
-și își cresc vizibilitatea activităților.
+industrie și al oportunităților de forma Google Summer of Code, ROSEdu Summer
+of Code, etc., studenții își îmbunătățesc abilitățile de dezvoltare de
+aplicații, abilitățile colaborative și își cresc vizibilitatea activităților.
 
 Pentru a stimula și mai mult contribuțiile, am dezvoltat și vă încurajăm să
 participați la Upstream Challenge. Cu o [primă ediție dezvoltată anul
