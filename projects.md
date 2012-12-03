@@ -12,6 +12,14 @@ detalii.
 * [WoUSO][wouso]
 * [ROSEdu People][people]
 * [Audacious][audacious]
+* [ANTLR][antlr]
+* [Pyhon Fabric][fabric]
+* [Homebrew][brew]
+* [Cabal][cabal]
+* [Diagrams][diagrams]
+* [Xmonad][xmonad]
+* [Yesod][yesod]
+* [Jekyll][jekyll]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -20,3 +28,11 @@ detalii.
 [wouso]: https://github.com/rosedu/wouso "World of USO"
 [people]: https://github.com/rosedu/rosedu-people "People@ROSEdu"
 [audacious]: http://audacious-media-player.org/ "Audacious"
+[cabal]: https://github.com/haskell/cabal "cabal"
+[diagrams]: https://github.com/diagrams "diagrams"
+[fabric]: https://github.com/fabric/fabric "Python Fabric"
+[brew]: https://github.com/mxcl/homebrew "Homebrew"
+[xmonad]: http://xmonad.org/ "XMonad"
+[antlr]: http://www.antlr.org/ "ANother Tool for Language Recognition"
+[yesod]: https://github.com/yesodweb/yesod "Yesod"
+[jekyll]: http://jekyllrb.com/ "Jekyll"
