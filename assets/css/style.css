@@ -265,6 +265,21 @@ div.wrapper div.field {
 }
 
 div.calendar {
-	float: right;
-	width: 500px;
+    float: right;
+    width: 500px;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+}
+
+th, td
+{
+    padding: 3px 7px 2px 7px
 }

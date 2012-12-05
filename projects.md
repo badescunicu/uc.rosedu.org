@@ -20,6 +20,12 @@ detalii.
 * [Xmonad][xmonad]
 * [Yesod][yesod]
 * [Jekyll][jekyll]
+* [Wordpress][wordpress]
+* [RVM][rvm]
+* [Puma][puma]
+* [Ruby on Rails][ror]
+* [Metasploit][metasploit]
+* [Crosstool NG][crosstool]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -36,3 +42,9 @@ detalii.
 [antlr]: http://www.antlr.org/ "ANother Tool for Language Recognition"
 [yesod]: https://github.com/yesodweb/yesod "Yesod"
 [jekyll]: http://jekyllrb.com/ "Jekyll"
+[wordpress]: http://wordpress.org/ "Wordpress"
+[rvm]: https://rvm.io/ "RVM"
+[puma]: http://puma.io/ "Puma"
+[ror]: http://rubyonrails.org/ "Ruby on Rails"
+[metasploit]: http://www.metasploit.com/ "Metasploit"
+[crosstool]: http://crosstool-ng.org/ "Crosstool NG"
