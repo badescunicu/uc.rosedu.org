@@ -283,3 +283,8 @@ th, td
 {
     padding: 3px 7px 2px 7px
 }
+
+#footer
+{
+    height: 42px;
+}
