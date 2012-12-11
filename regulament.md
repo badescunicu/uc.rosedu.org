@@ -135,7 +135,8 @@ vor fi anunțate imediat.
 
 ##Premii
 
-Pentru fiecare dintre cele 3 track-uri, marele premiu va fi un Ultrabook.
+Pentru fiecare dintre cele 3 track-uri, marele premiu va fi un Ultrabook
+oferit de Intel, sponsor principal.
 
 Pe lângă marele premiu, vor exista premii speciale din partea sponsorilor
 pentru contribuții semnificative. Aceste premii pot fi globale, per track sau
