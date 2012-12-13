@@ -26,6 +26,7 @@ detalii.
 * [Ruby on Rails][ror]
 * [Metasploit][metasploit]
 * [Crosstool NG][crosstool]
+* [Cyanogenmod][cyanogenmod]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -48,3 +49,4 @@ detalii.
 [ror]: http://rubyonrails.org/ "Ruby on Rails"
 [metasploit]: http://www.metasploit.com/ "Metasploit"
 [crosstool]: http://crosstool-ng.org/ "Crosstool NG"
+[cyanogenmod]: http://www.cyanogenmod.org/community "Cyanogenmod"
