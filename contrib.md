@@ -21,6 +21,7 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |Data |Proiect | Contribuitor | Patch |
 |-----|--------|--------------|-------|
 |13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=820197)|
+|13.12|[Mozilla][mozilla]|Cosmin Clapon|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=764996)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -28,6 +29,7 @@ de contribuții.
 |Nume | Nr. contribuții |
 |-----|-----------------|
 |Cătălin Ușurelu|1|
+|Cosmin Clapon|1|
 
 <div id="end">&nbsp;</div>
 
