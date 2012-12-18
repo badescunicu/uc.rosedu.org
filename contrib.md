@@ -8,7 +8,7 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 3 contribuții, 3 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 5 contribuții, 3 participanți
 * [track-ul anului 3](#trackul_anului_3): 12 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
@@ -23,13 +23,15 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=820197)|
 |13.12|[Mozilla][mozilla]|Cosmin Clapon|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=764996)|
 |17.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821396)|
+|13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821901)|
+|13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=817846)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Cătălin Ușurelu|1|
+|Cătălin Ușurelu|3|
 |Cosmin Clapon|1|
 |Cătălin Iordache|1|
 
