@@ -23,7 +23,7 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=820197)|
 |13.12|[Mozilla][mozilla]|Cosmin Clapon|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=764996)|
 |17.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821396)|
-|13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821901)|
+|13.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821901)|
 |13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=817846)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
@@ -31,9 +31,9 @@ de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Cătălin Ușurelu|3|
+|Cătălin Ușurelu|2|
 |Cosmin Clapon|1|
-|Cătălin Iordache|1|
+|Cătălin Iordache|2|
 
 <div id="end">&nbsp;</div>
 
