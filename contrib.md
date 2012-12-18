@@ -31,9 +31,10 @@ de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
+|Cătălin Iordache|2|
 |Cătălin Ușurelu|2|
 |Cosmin Clapon|1|
-|Cătălin Iordache|2|
+
 
 <div id="end">&nbsp;</div>
 
