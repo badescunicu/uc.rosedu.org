@@ -8,8 +8,8 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 5 contribuții, 3 participanți
-* [track-ul anului 3](#trackul_anului_3): 12 contribuții, 2 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 9 contribuții, 3 participanți
+* [track-ul anului 3](#trackul_anului_3): 13 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
 <div id="end">&nbsp;</div>
@@ -25,13 +25,15 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |17.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821396)|
 |13.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821901)|
 |13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=817846)|
+|20.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=813019)|
+|20.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821269)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Cătălin Iordache|2|
+|Cătălin Iordache|4|
 |Cătălin Ușurelu|2|
 |Cosmin Clapon|1|
 
@@ -56,13 +58,14 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=742794)|
 |14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821863)|
 |14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=802265)|
+|20.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=822739)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Mihnea Dobrescu-Balaur|8|
+|Mihnea Dobrescu-Balaur|9|
 |Cătălin Dogaru|4|
 
 <div id="end">&nbsp;</div>
