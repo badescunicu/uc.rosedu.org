@@ -27,6 +27,8 @@ detalii.
 * [Metasploit][metasploit]
 * [Crosstool NG][crosstool]
 * [Cyanogenmod][cyanogenmod]
+* [KDE][kde]
+* [TrinityCore][trinitycore]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -50,3 +52,5 @@ detalii.
 [metasploit]: http://www.metasploit.com/ "Metasploit"
 [crosstool]: http://crosstool-ng.org/ "Crosstool NG"
 [cyanogenmod]: http://www.cyanogenmod.org/community "Cyanogenmod"
+[KDE]: http://www.kde.org/ "KDE"
+[trinitycore]: http://www.trinitycore.org/ "TrinityCore"
