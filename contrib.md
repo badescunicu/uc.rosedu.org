@@ -8,7 +8,7 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 9 contribuții, 3 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 11 contribuții, 5 participanți
 * [track-ul anului 3](#trackul_anului_3): 13 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
@@ -27,6 +27,8 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=817846)|
 |20.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=813019)|
 |20.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821269)|
+|31.12|[KDE][KDE]|Andrei Duma|[commit](https://git.reviewboard.kde.org/r/107984/)|
+|31.12|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8812)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -36,6 +38,8 @@ de contribuții.
 |Cătălin Iordache|4|
 |Cătălin Ușurelu|2|
 |Cosmin Clapon|1|
+|Andrei Duma|1|
+|Marius Ungureanu|1|
 
 
 <div id="end">&nbsp;</div>
@@ -88,3 +92,5 @@ de contribuții.
 [reg]: /regulament#structura "Regulament"
 [wordpress]: http://wordpress.org/ "Wordpress"
 [mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
+[KDE]: http://www.kde.org/ "KDE"
+[trinitycore]: http://www.trinitycore.org/ "TrinityCore"
