@@ -29,6 +29,18 @@ detalii.
 * [Cyanogenmod][cyanogenmod]
 * [KDE][kde]
 * [TrinityCore][trinitycore]
+* [Thousand Parsec][tp]
+* [0 A.D.][0ad]
+* [Angband][angband]
+* [NetHack][nethack]
+* [Battle For Westnoth][westnoth]
+* [FlightGear][flightgear]
+* [FreeCiv][freeciv]
+* [FreeCol][freecol]
+* [Mega Glest][glest]
+* [TripleA][triplea]
+* [Unknown Horizons][uh]
+* [Widelands][wl]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -54,3 +66,15 @@ detalii.
 [cyanogenmod]: http://www.cyanogenmod.org/community "Cyanogenmod"
 [KDE]: http://www.kde.org/ "KDE"
 [trinitycore]: http://www.trinitycore.org/ "TrinityCore"
+[tp]: http://www.thousandparsec.net/tp/ "Thousand Parsec"
+[0ad]: http://play0ad.com/ "0 A.D."
+[angband]: http://rephial.org/ "Angband"
+[nethack]: http://www.nethack.org/ "NetHack"
+[westnoth]: http://www.wesnoth.org/ "Battle For Westnoth"
+[flightgear]: http://www.flightgear.org/ "FlightGear"
+[freeciv]: http://freeciv.wikia.com/wiki/Main_Page "FreeCiv"
+[freecol]: http://www.freecol.org/ "FreeCol"
+[glest]: http://megaglest.org/ "Mega Glest"
+[triplea]: http://triplea.sourceforge.net/mywiki "TripleA"
+[uh]: http://www.unknown-horizons.org/ "Unknown Horizons"
+[wl]: http://wl.widelands.org/ "Widelands"
