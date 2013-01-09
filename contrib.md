@@ -9,7 +9,7 @@ Pentru a merge direct la track-ul corespunzător anului tău, folosește unul di
 link-urile următoare:
 
 * [track-ul anilor 1-2](#trackul_anilor_12): 11 contribuții, 5 participanți
-* [track-ul anului 3](#trackul_anului_3): 13 contribuții, 2 participanți
+* [track-ul anului 3](#trackul_anului_3): 14 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
 <div id="end">&nbsp;</div>
@@ -63,6 +63,7 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821863)|
 |14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=802265)|
 |20.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=822739)|
+| 9.01|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22975)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -70,7 +71,7 @@ de contribuții.
 |Nume | Nr. contribuții |
 |-----|-----------------|
 |Mihnea Dobrescu-Balaur|9|
-|Cătălin Dogaru|4|
+|Cătălin Dogaru|5|
 
 <div id="end">&nbsp;</div>
 
