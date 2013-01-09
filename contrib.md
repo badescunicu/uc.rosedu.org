@@ -20,15 +20,15 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 
 |Data |Proiect | Contribuitor | Patch |
 |-----|--------|--------------|-------|
-|13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=820197)|
-|13.12|[Mozilla][mozilla]|Cosmin Clapon|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=764996)|
-|17.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821396)|
-|13.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821901)|
-|13.12|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=817846)|
-|20.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=813019)|
-|20.12|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821269)|
-|31.12|[KDE][KDE]|Andrei Duma|[commit](https://git.reviewboard.kde.org/r/107984/)|
-|31.12|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8812)|
+|13.12.2012|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=820197)|
+|13.12.2012|[Mozilla][mozilla]|Cosmin Clapon|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=764996)|
+|17.12.2012|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821396)|
+|13.12.2012|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821901)|
+|13.12.2012|[Mozilla][mozilla]|Cătălin Ușurelu|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=817846)|
+|20.12.2012|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=813019)|
+|20.12.2012|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821269)|
+|31.12.2012|[KDE][KDE]|Andrei Duma|[commit](https://git.reviewboard.kde.org/r/107984/)|
+|31.12.2012|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8812)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -50,20 +50,20 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 
 |Data |Proiect | Contribuitor | Patch |
 |-----|--------|--------------|-------|
-| 5.12|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22667)|
-| 5.12|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22693)|
-|13.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=816035)|
-|13.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=816216)|
-|13.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=819482)|
-|13.12|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/19159)|
-|13.12|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22839)|
-|13.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821018)|
-|13.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=809109)|
-|14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=742794)|
-|14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821863)|
-|14.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=802265)|
-|20.12|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=822739)|
-| 9.01|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22975)|
+| 5.12.2012|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22667)|
+| 5.12.2012|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22693)|
+|13.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=816035)|
+|13.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=816216)|
+|13.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=819482)|
+|13.12.2012|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/19159)|
+|13.12.2012|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22839)|
+|13.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821018)|
+|13.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=809109)|
+|14.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=742794)|
+|14.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821863)|
+|14.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=802265)|
+|20.12.2012|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=822739)|
+| 9.01.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/22975)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
