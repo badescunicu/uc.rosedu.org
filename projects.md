@@ -41,6 +41,7 @@ detalii.
 * [TripleA][triplea]
 * [Unknown Horizons][uh]
 * [Widelands][wl]
+* [Jeopardy][jeopy]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -78,3 +79,4 @@ detalii.
 [triplea]: http://triplea.sourceforge.net/mywiki "TripleA"
 [uh]: http://www.unknown-horizons.org/ "Unknown Horizons"
 [wl]: http://wl.widelands.org/ "Widelands"
+[jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
