@@ -8,7 +8,7 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 10 contribuții, 5 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 12 contribuții, 5 participanți
 * [track-ul anului 3](#trackul_anului_3): 14 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
@@ -30,6 +30,8 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |31.12.2012|[KDE][KDE]|Andrei Duma|[commit](https://git.reviewboard.kde.org/r/107984/)|
 |31.12.2012|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8812)|
 |10.01.2013|[Jeopardy][jeopy]|Marius Ungureanu|[commit](https://github.com/dfilimon/Jeopy/pull/26)|
+|11.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/95)|
+|11.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8901)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -37,8 +39,8 @@ de contribuții.
 |Nume | Nr. contribuții |
 |-----|-----------------|
 |Cătălin Iordache|4|
+|Marius Ungureanu|4|
 |Cătălin Ușurelu|2|
-|Marius Ungureanu|2|
 |Cosmin Clapon|1|
 |Andrei Duma|1|
 
