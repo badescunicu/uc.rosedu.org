@@ -8,7 +8,7 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 18 contribuții, 5 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 19 contribuții, 5 participanți
 * [track-ul anului 3](#trackul_anului_3): 14 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
@@ -38,13 +38,14 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/96)|
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8915)|
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/99)|
+|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/100)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Marius Ungureanu|10|
+|Marius Ungureanu|11|
 |Cătălin Iordache|4|
 |Cătălin Ușurelu|2|
 |Cosmin Clapon|1|
