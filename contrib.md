@@ -35,9 +35,9 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8930)|
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/97)|
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/98)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8912)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8915)|
 |14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/96)|
+|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8915)|
+|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/99)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
