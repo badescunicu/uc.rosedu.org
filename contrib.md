@@ -84,14 +84,18 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 | 2.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](https://github.com/cdog/avatar-manager)|
 | 2.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=759594)|
 | 2.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=785146)|
+| 6.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/14979)|
+| 7.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=819550)|
+| 7.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=642843)|
+
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Mihnea Dobrescu-Balaur|11|
-|Cătălin Dogaru|7|
+|Mihnea Dobrescu-Balaur|13|
+|Cătălin Dogaru|8|
 
 <div id="end">&nbsp;</div>
 
