@@ -87,13 +87,15 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 | 6.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/14979)|
 | 7.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=819550)|
 | 7.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=642843)|
+|18.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=800082)|
+|18.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=805594)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Mihnea Dobrescu-Balaur|13|
+|Mihnea Dobrescu-Balaur|15|
 |Cătălin Dogaru|8|
 
 <div id="end">&nbsp;</div>
