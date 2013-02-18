@@ -9,7 +9,7 @@ Pentru a merge direct la track-ul corespunzător anului tău, folosește unul di
 link-urile următoare:
 
 * [track-ul anilor 1-2](#trackul_anilor_12): 26 contribuții, 5 participanți
-* [track-ul anului 3](#trackul_anului_3): 21 contribuții, 2 participanți
+* [track-ul anului 3](#trackul_anului_3): 23 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
 <div id="end">&nbsp;</div>
