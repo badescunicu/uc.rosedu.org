@@ -92,6 +92,8 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |19.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://wp.tutsplus.com/tutorials/plugins/how-to-create-a-wordpress-avatar-management-plugin-from-scratch-getting-started/)|
 |20.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=841887)|
 |20.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=842667)|
+|21.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/23558)|
+|21.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://wp.tutsplus.com/tutorials/plugins/how-to-create-a-wordpress-avatar-management-plugin-from-scratch-finishing-touches/)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
