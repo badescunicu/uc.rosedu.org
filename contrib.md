@@ -8,7 +8,7 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 26 contribuții, 5 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 27 contribuții, 6 participanți
 * [track-ul anului 3](#trackul_anului_3): 26 contribuții, 2 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
@@ -46,6 +46,7 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/626ff1edb156b8673800f0afe4c710536a1a6852)|
 |20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/462a3382285ac615cafed31db8ab8842722da61c)|
 |29.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/b97f321c5104ca995b290bcb38502393d846333c)|
+|23.02.2013|[UnknownHorizons][unknownhorizons]|Cristian Mocanu|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -57,6 +58,7 @@ de contribuții.
 |Cătălin Ușurelu|2|
 |Cosmin Clapon|1|
 |Andrei Duma|1|
+|Cristian Mocanu|1|
 
 <div id="end">&nbsp;</div>
 
@@ -126,3 +128,4 @@ de contribuții.
 [KDE]: http://www.kde.org/ "KDE"
 [trinitycore]: http://www.trinitycore.org/ "TrinityCore"
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
+[unknownhorizons]: http://www.unknown-horizons.org/ "Unknown Horizons"
