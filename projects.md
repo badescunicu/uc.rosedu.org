@@ -42,6 +42,7 @@ detalii.
 * [Unknown Horizons][uh]
 * [Widelands][wl]
 * [Jeopardy][jeopy]
+* [Digikam][digikam]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -80,3 +81,4 @@ detalii.
 [uh]: http://www.unknown-horizons.org/ "Unknown Horizons"
 [wl]: http://wl.widelands.org/ "Widelands"
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
+[digikam]: http://www.digikam.org/ "Digikam"

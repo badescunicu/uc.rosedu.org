@@ -8,8 +8,8 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 27 contribuții, 6 participanți
-* [track-ul anului 3](#trackul_anului_3): 26 contribuții, 2 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12): 28 contribuții, 6 participanți
+* [track-ul anului 3](#trackul_anului_3): 30 contribuții, 3 participanți
 * [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
 
 <div id="end">&nbsp;</div>
@@ -47,6 +47,7 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/462a3382285ac615cafed31db8ab8842722da61c)|
 |29.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/b97f321c5104ca995b290bcb38502393d846333c)|
 |23.02.2013|[UnknownHorizons][unknownhorizons]|Cristian Mocanu|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033)|
+|23.02.2013|[UnknownHorizons][unknownhorizons]|Cristian Mocanu|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033 )|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -56,9 +57,9 @@ de contribuții.
 |Marius Ungureanu|18|
 |Cătălin Iordache|4|
 |Cătălin Ușurelu|2|
+|Cristian Mocanu|2|
 |Cosmin Clapon|1|
 |Andrei Duma|1|
-|Cristian Mocanu|1|
 
 <div id="end">&nbsp;</div>
 
@@ -96,6 +97,8 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |20.02.2013|[Mozilla][mozilla]|Mihnea Dobrescu-Balaur|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=842667)|
 |21.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://core.trac.wordpress.org/ticket/23558)|
 |21.02.2013|[Wordpress][wordpress]|Cătălin Dogaru|[commit](http://wp.tutsplus.com/tutorials/plugins/how-to-create-a-wordpress-avatar-management-plugin-from-scratch-finishing-touches/)|
+|27.02.2013|[Digikam][digikam]|Veaceslav Munteanu|[commit](https://git.reviewboard.kde.org/r/109087/)|
+|27.02.2013|[Digikam][digikam]|Veaceslav Munteanu|[commit](http://quickgit.kde.org/?p=libkexiv2.git&a=commit&h=f2c50255227852bcb83115f13bfc4d4394a780ed)|
 
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
@@ -103,7 +106,8 @@ de contribuții.
 |Nume | Nr. contribuții |
 |-----|-----------------|
 |Mihnea Dobrescu-Balaur|17|
-|Cătălin Dogaru|9|
+|Cătălin Dogaru|11|
+|Veaceslav Munteanu|2|
 
 <div id="end">&nbsp;</div>
 
@@ -129,3 +133,4 @@ de contribuții.
 [trinitycore]: http://www.trinitycore.org/ "TrinityCore"
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [unknownhorizons]: http://www.unknown-horizons.org/ "Unknown Horizons"
+[digikam]: http://www.digikam.org/ "Digikam"
