@@ -19,14 +19,15 @@ link-urile următoare:
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
-|Nume | Nr. contribuții |
-|-----|-----------------|
-|Cătălin Iordache|4|
-|Cătălin Ușurelu|2|
-|Cristian Mocanu|2|
-|Marius Ungureanu|1|
-|Cosmin Clapon|1|
-|Andrei Duma|1|
+|Nr.|Nume            | Nr. contribuții |
+|--:|----------------|----------------:|
+|  1|Cătălin Iordache|                4|
+|  2|Cătălin Ușurelu |                2|
+|  3|Cristian Mocanu |                2|
+|  4|Marius Ungureanu|                1|
+|  5|Cosmin Clapon   |                1|
+|  6|Andrei Duma     |                1|
+|   |**TOTAL**       |               11|
 
 <div id="end">&nbsp;</div>
 
@@ -35,11 +36,12 @@ de contribuții.
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
-|Nume | Nr. contribuții |
-|-----|-----------------|
-|Mihnea Dobrescu-Balaur|17|
-|Cătălin Dogaru|11|
-|Veaceslav Munteanu|2|
+|Nr.|Nume                  | Nr. contribuții |
+|--:|----------------------|----------------:|
+|  1|Mihnea Dobrescu-Balaur|               17|
+|  2|Cătălin Dogaru        |               11|
+|  3|Veaceslav Munteanu    |                2|
+|   |**TOTAL**             |               30|
 
 <div id="end">&nbsp;</div>
 
@@ -48,8 +50,9 @@ de contribuții.
 Tabelul următor listează persoanele care au contribuit, sortate după numărul
 de contribuții.
 
-|Nume | Nr. contribuții |
-|-----|-----------------|
+|Nr.|Nume     | Nr. contribuții |
+|--:|---------|----------------:|
+|   |**TOTAL**|                0|
 
 <div id="end">&nbsp;</div>
 
