@@ -8,9 +8,9 @@ Contribuțiile sunt listate pe cele [3 track-uri][reg].
 Pentru a merge direct la track-ul corespunzător anului tău, folosește unul din
 link-urile următoare:
 
-* [track-ul anilor 1-2](#trackul_anilor_12): 28 contribuții, 6 participanți
-* [track-ul anului 3](#trackul_anului_3): 30 contribuții, 3 participanți
-* [track-ul anului 4](#trackul_anului_4): 0 contribuții, 0 participanți
+* [track-ul anilor 1-2](#trackul_anilor_12)
+* [track-ul anului 3](#trackul_anului_3)
+* [track-ul anului 4](#trackul_anului_4)
 
 <div id="end">&nbsp;</div>
 
