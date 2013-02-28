@@ -58,6 +58,10 @@ central][root]. Acesta cuprinde:
 Se vor accepta contribuții upstream pentru proiectele care au un release
 public cel târziu pe **30 septembrie 2012**.
 
+Proiectele acceptate trebuie să fie Open Source și să nu fie implicate în
+probleme de legalitate cu alte proiecte sau firme existente (fără reverse
+engineering, probleme de licențiere, etc.)
+
 Se vor evalua proiectele și calitativ, în funcție de complexitate și număr de
 utilizatori.
 
