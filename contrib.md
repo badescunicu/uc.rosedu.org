@@ -18,12 +18,12 @@ link-urile următoare:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. Andrei Duma
-2. Cătălin Iordache
-3. Cătălin Ușurelu
-4. Cristian Mocanu
-5. Cosmin Clapon
-6. Marius Ungureanu
+1. [Andrei Duma][andrei-duma]
+2. [Cătălin Iordache][catalin-iordache]
+3. [Cătălin Ușurelu][catalin-usurelu]
+4. [Cristian Mocanu][cristian-mocanu]
+5. [Cosmin Clapon][cosmin-clapon]
+6. [Marius Ungureanu][marius-ungureanu]
 
 În total, sunt **11** contribuții acceptate.
 
@@ -33,9 +33,9 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. Cătălin Dogaru
-2. Mihnea Dobrescu-Balaur
-3. Veaceslav Munteanu
+1. [Cătălin Dogaru][catalin-dogaru]
+2. [Mihnea Dobrescu-Balaur][mihnea-dobrescu-balaur]
+3. [Veaceslav Munteanu][veaceslav-munteanu]
 
 În total, sunt **30** contribuții acceptate.
 
@@ -50,9 +50,13 @@ Nici o persoană nu s-a înregistrat pentru acest track.
 <div id="end">&nbsp;</div>
 
 [reg]: /regulament#structura "Regulament"
-[wordpress]: http://wordpress.org/ "Wordpress"
-[mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
-[KDE]: http://www.kde.org/ "KDE"
-[jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
-[unknownhorizons]: http://www.unknown-horizons.org/ "Unknown Horizons"
-[digikam]: http://www.digikam.org/ "Digikam"
+
+[andrei-duma]: /andrei-duma "Andrei Duma"
+[catalin-iordache]: /catalin-iordache "Cătălin Iordache"
+[catalin-usurelu]: /catalin-usurelu "Cătălin Ușurelu"
+[cristian-mocanu]: /cristian-mocanu "Cristian Mocanu"
+[cosmin-clapon]: /cosmin-clapon "Cosmin Clapon"
+[marius-ungureanu]: /marius-ungureanu "Marius Ungureanu"
+[catalin-dogaru]: /catalin-dogaru "Cătălin Dogaru"
+[mihnea-dobrescu-balaur]: /mihnea-dobrescu-balaur "Mihnea Dobrescu-Balaur"
+[veaceslav-munteanu]: /veaceslav-munteanu "Veaceslav Munteanu"
