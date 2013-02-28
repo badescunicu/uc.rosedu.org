@@ -16,43 +16,36 @@ link-urile următoare:
 
 # Trackul anilor 1-2
 
-Tabelul următor listează persoanele care au contribuit, sortate după numărul
-de contribuții.
+Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-|Nr.|Nume            | Nr. contribuții |
-|--:|----------------|----------------:|
-|  1|Cătălin Iordache|                4|
-|  2|Cătălin Ușurelu |                2|
-|  3|Cristian Mocanu |                2|
-|  4|Marius Ungureanu|                1|
-|  5|Cosmin Clapon   |                1|
-|  6|Andrei Duma     |                1|
-|   |**TOTAL**       |               11|
+1. Andrei Duma
+2. Cătălin Iordache
+3. Cătălin Ușurelu
+4. Cristian Mocanu
+5. Cosmin Clapon
+6. Marius Ungureanu
+
+În total, sunt **11** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
 # Trackul anului 3
 
-Tabelul următor listează persoanele care au contribuit, sortate după numărul
-de contribuții.
+Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-|Nr.|Nume                  | Nr. contribuții |
-|--:|----------------------|----------------:|
-|  1|Mihnea Dobrescu-Balaur|               17|
-|  2|Cătălin Dogaru        |               11|
-|  3|Veaceslav Munteanu    |                2|
-|   |**TOTAL**             |               30|
+1. Mihnea Dobrescu-Balaur
+2. Cătălin Dogaru
+3. Veaceslav Munteanu
+
+În total, sunt **30** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
 # Trackul anului 4
 
-Tabelul următor listează persoanele care au contribuit, sortate după numărul
-de contribuții.
+Nici o persoană nu s-a înregistrat pentru acest track.
 
-|Nr.|Nume     | Nr. contribuții |
-|--:|---------|----------------:|
-|   |**TOTAL**|                0|
+În total, sunt **0** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
