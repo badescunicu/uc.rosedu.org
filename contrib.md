@@ -33,8 +33,8 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. Mihnea Dobrescu-Balaur
-2. Cătălin Dogaru
+1. Cătălin Dogaru
+2. Mihnea Dobrescu-Balaur
 3. Veaceslav Munteanu
 
 În total, sunt **30** contribuții acceptate.
