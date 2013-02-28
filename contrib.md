@@ -28,24 +28,7 @@ Tabelul următor listează contribuțiile, în ordine cronologică:
 |20.12.2012|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=813019)|
 |20.12.2012|[Mozilla][mozilla]|Cătălin Iordache|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=821269)|
 |31.12.2012|[KDE][KDE]|Andrei Duma|[commit](https://git.reviewboard.kde.org/r/107984/)|
-|31.12.2012|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8812)|
 |10.01.2013|[Jeopardy][jeopy]|Marius Ungureanu|[commit](https://github.com/dfilimon/Jeopy/pull/26)|
-|11.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/95)|
-|11.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8901)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8930)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/97)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/98)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/96)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/TrinityCore/pull/8915)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/99)|
-|14.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/100)|
-|20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/101)|
-|20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/pull/102)|
-|20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/8c3a333a76ebf4166de8fac35644378d3d11da8a)|
-|20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/e203c0f1b1d997d5485566c5dc4efab0b7f554e4)|
-|20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/626ff1edb156b8673800f0afe4c710536a1a6852)|
-|20.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/462a3382285ac615cafed31db8ab8842722da61c)|
-|29.01.2013|[TrinityCore][trinitycore]|Marius Ungureanu|[commit](https://github.com/TrinityCore/WowPacketParser/commit/b97f321c5104ca995b290bcb38502393d846333c)|
 |23.02.2013|[UnknownHorizons][unknownhorizons]|Cristian Mocanu|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033)|
 |23.02.2013|[UnknownHorizons][unknownhorizons]|Cristian Mocanu|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033 )|
 
@@ -54,10 +37,10 @@ de contribuții.
 
 |Nume | Nr. contribuții |
 |-----|-----------------|
-|Marius Ungureanu|18|
 |Cătălin Iordache|4|
 |Cătălin Ușurelu|2|
 |Cristian Mocanu|2|
+|Marius Ungureanu|1|
 |Cosmin Clapon|1|
 |Andrei Duma|1|
 
@@ -130,7 +113,6 @@ de contribuții.
 [wordpress]: http://wordpress.org/ "Wordpress"
 [mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
 [KDE]: http://www.kde.org/ "KDE"
-[trinitycore]: http://www.trinitycore.org/ "TrinityCore"
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [unknownhorizons]: http://www.unknown-horizons.org/ "Unknown Horizons"
 [digikam]: http://www.digikam.org/ "Digikam"

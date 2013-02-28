@@ -28,7 +28,6 @@ detalii.
 * [Crosstool NG][crosstool]
 * [Cyanogenmod][cyanogenmod]
 * [KDE][kde]
-* [TrinityCore][trinitycore]
 * [Thousand Parsec][tp]
 * [0 A.D.][0ad]
 * [Angband][angband]
@@ -67,7 +66,6 @@ detalii.
 [crosstool]: http://crosstool-ng.org/ "Crosstool NG"
 [cyanogenmod]: http://www.cyanogenmod.org/community "Cyanogenmod"
 [KDE]: http://www.kde.org/ "KDE"
-[trinitycore]: http://www.trinitycore.org/ "TrinityCore"
 [tp]: http://www.thousandparsec.net/tp/ "Thousand Parsec"
 [0ad]: http://play0ad.com/ "0 A.D."
 [angband]: http://rephial.org/ "Angband"
