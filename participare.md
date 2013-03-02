@@ -6,7 +6,7 @@ showsidebar: true
 
 Pentru a participa la concurs trebuie să:
 
-1. vă înscrieți pe [lista de dicuții][lista]
+1. vă înscrieți pe [lista de discuții][lista]
 1. identificați un bug
 1. rezolvați bug
 1. trimiteți bug pe [lista de discuții][lista]
