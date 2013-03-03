@@ -43,9 +43,11 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 # Trackul anului 4
 
-Nici o persoană nu s-a înregistrat pentru acest track.
+Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-În total, sunt **0** contribuții acceptate.
+1. [Silviu Popescu][silviu-popescu]
+
+În total, sunt **1** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -60,3 +62,4 @@ Nici o persoană nu s-a înregistrat pentru acest track.
 [catalin-dogaru]: /catalin-dogaru "Cătălin Dogaru"
 [mihnea-dobrescu-balaur]: /mihnea-dobrescu-balaur "Mihnea Dobrescu-Balaur"
 [veaceslav-munteanu]: /veaceslav-munteanu "Veaceslav Munteanu"
+[silviu-popescu]:/siliviu-popescu "Silviu Popescu"
