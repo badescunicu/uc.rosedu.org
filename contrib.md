@@ -62,4 +62,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [catalin-dogaru]: /catalin-dogaru "Cătălin Dogaru"
 [mihnea-dobrescu-balaur]: /mihnea-dobrescu-balaur "Mihnea Dobrescu-Balaur"
 [veaceslav-munteanu]: /veaceslav-munteanu "Veaceslav Munteanu"
-[silviu-popescu]:/siliviu-popescu "Silviu Popescu"
+[silviu-popescu]:/silviu-popescu "Silviu Popescu"
