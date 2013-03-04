@@ -47,7 +47,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 1. [Silviu Popescu][silviu-popescu]
 
-În total, sunt **1** contribuții acceptate.
+În total, sunt **2** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
