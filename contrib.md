@@ -46,6 +46,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 1. [Silviu Popescu][silviu-popescu]
+2. [Claudiu Ghioc][claudiu-ghioc]
 
 În total, sunt **2** contribuții acceptate.
 
@@ -63,3 +64,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [mihnea-dobrescu-balaur]: /mihnea-dobrescu-balaur "Mihnea Dobrescu-Balaur"
 [veaceslav-munteanu]: /veaceslav-munteanu "Veaceslav Munteanu"
 [silviu-popescu]:/silviu-popescu "Silviu Popescu"
+[claudiu-ghioc]:/claudiu-ghioc "Claudiu Ghioc"
