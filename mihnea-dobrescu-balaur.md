@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 3.
 
-Contribuții: **17**
+Contribuții: **20**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -28,5 +28,9 @@ Contribuții: **17**
 |18.02.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=805594)|
 |20.02.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=841887)|
 |20.02.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=842667)|
+|10.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2244351/)|
+|10.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2244461/)|
+|10.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2244551/)|
 
 [mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
+[kernel]: http://www.kernel.org "Linux kernel"
