@@ -48,6 +48,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 1. [Silviu Popescu][silviu-popescu]
 2. [Claudiu Ghioc][claudiu-ghioc]
 3. [Alexandru Gheorghiu][alexandru-gheorghiu]
+4. [Valentin Ilie][valentin-ilie]
 
 În total, sunt **7** contribuții acceptate.
 
@@ -64,6 +65,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [catalin-dogaru]: /catalin-dogaru "Cătălin Dogaru"
 [mihnea-dobrescu-balaur]: /mihnea-dobrescu-balaur "Mihnea Dobrescu-Balaur"
 [veaceslav-munteanu]: /veaceslav-munteanu "Veaceslav Munteanu"
-[silviu-popescu]:/silviu-popescu "Silviu Popescu"
-[claudiu-ghioc]:/claudiu-ghioc "Claudiu Ghioc"
-[alexandru-gheorghiu]:/alexandru-gheorghiu "Alexandru Gheorghiu"
+[silviu-popescu]: /silviu-popescu "Silviu Popescu"
+[claudiu-ghioc]: /claudiu-ghioc "Claudiu Ghioc"
+[alexandru-gheorghiu]: /alexandru-gheorghiu "Alexandru Gheorghiu"
+[valentin-ilie]: /valentin-ilie "Valentin Ilie"
