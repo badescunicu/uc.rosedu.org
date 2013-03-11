@@ -31,6 +31,9 @@ Contribuții: **20**
 |10.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2244351/)|
 |10.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2244461/)|
 |10.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2244551/)|
+|11.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2247811/)|
+|11.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2247991/)|
+|11.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2248011/)|
 
 [mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
 [kernel]: http://www.kernel.org "Linux kernel"
