@@ -47,8 +47,9 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 1. [Silviu Popescu][silviu-popescu]
 2. [Claudiu Ghioc][claudiu-ghioc]
+3. [Alexandru Gheorghiu][alexandru-gheorghiu]
 
-În total, sunt **4** contribuții acceptate.
+În total, sunt **6** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -65,3 +66,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [veaceslav-munteanu]: /veaceslav-munteanu "Veaceslav Munteanu"
 [silviu-popescu]:/silviu-popescu "Silviu Popescu"
 [claudiu-ghioc]:/claudiu-ghioc "Claudiu Ghioc"
+[alexandru-gheorghiu]:/alexandru-gheorghiu "Alexandru Gheorghiu"
