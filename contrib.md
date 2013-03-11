@@ -50,7 +50,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 3. [Alexandru Gheorghiu][alexandru-gheorghiu]
 4. [Valentin Ilie][valentin-ilie]
 
-În total, sunt **7** contribuții acceptate.
+În total, sunt **9** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
