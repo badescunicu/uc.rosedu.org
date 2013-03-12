@@ -25,7 +25,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 5. [Cosmin Clapon][cosmin-clapon]
 6. [Marius Ungureanu][marius-ungureanu]
 
-În total, sunt **15** contribuții acceptate.
+În total, sunt **16** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
