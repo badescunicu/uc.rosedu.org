@@ -45,11 +45,11 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. [Silviu Popescu][silviu-popescu]
-2. [Claudiu Ghioc][claudiu-ghioc]
 3. [Alexandru Gheorghiu][alexandru-gheorghiu]
-4. [Valentin Ilie][valentin-ilie]
 4. [Andrei Epure][andrei-epure]
+2. [Claudiu Ghioc][claudiu-ghioc]
+1. [Silviu Popescu][silviu-popescu]
+4. [Valentin Ilie][valentin-ilie]
 
 În total, sunt **14** contribuții acceptate.
 
