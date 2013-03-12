@@ -49,8 +49,9 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 2. [Claudiu Ghioc][claudiu-ghioc]
 3. [Alexandru Gheorghiu][alexandru-gheorghiu]
 4. [Valentin Ilie][valentin-ilie]
+4. [Andrei Epure][andrei-epure]
 
-În total, sunt **9** contribuții acceptate.
+În total, sunt **14** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -69,3 +70,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [claudiu-ghioc]: /claudiu-ghioc "Claudiu Ghioc"
 [alexandru-gheorghiu]: /alexandru-gheorghiu "Alexandru Gheorghiu"
 [valentin-ilie]: /valentin-ilie "Valentin Ilie"
+[andrei-epure]: /andrei-epure "Andrei Epure"
