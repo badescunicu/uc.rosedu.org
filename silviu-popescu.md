@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anului 4
 
-Contribuții: **5**
+Contribuții: **7**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -16,5 +16,7 @@ Contribuții: **5**
 | 7.03.2013|[Linux Kernel][kernel]|[commit](http://marc.info/?l=linux-netdev&m=136263526417291&w=2)|
 |11.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/12/113)|
 |11.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/11/345)|
+|15.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/12/466)|
+|15.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/12/467)|
 
 [kernel]: http://www.kernel.org "Linux kernel"
