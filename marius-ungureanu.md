@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 1-2.
 
-Contribuții: **4**
+Contribuții: **6**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -15,6 +15,8 @@ Contribuții: **4**
 |12.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/39)|
 |12.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/40)|
 |12.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/42)|
+|17.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/43)|
+|17.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/44)|
 
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [seegit]: https://github.com/Haacked/SeeGit "SeeGit"
