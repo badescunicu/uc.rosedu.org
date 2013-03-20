@@ -42,6 +42,7 @@ detalii.
 * [Widelands][wl]
 * [Jeopardy][jeopy]
 * [Digikam][digikam]
+* [VmChecker][vmchecker]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -80,3 +81,4 @@ detalii.
 [wl]: http://wl.widelands.org/ "Widelands"
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [digikam]: http://www.digikam.org/ "Digikam"
+[vmchecker]: https://github.com/vmchecker "VmChecker"
