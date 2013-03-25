@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anului 4
 
-Contribuții: **18**
+Contribuții: **19**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -29,5 +29,6 @@ Contribuții: **18**
 |25.03.2013|[Linux Kernel][kernel]|[commit](http://mailman.alsa-project.org/pipermail/alsa-devel/2013-March/060398.html)|
 |25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/18/522)|
 |25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/16/59)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](http://git.linuxtv.org/media_tree.git?a=commitdiff;h=69aa6f4ec669b9121057cc9e32cb10b5f744f6d6)|
 
 [kernel]: http://www.kernel.org "Linux kernel"

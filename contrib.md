@@ -51,7 +51,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 1. [Silviu Popescu][silviu-popescu]
 4. [Valentin Ilie][valentin-ilie]
 
-În total, sunt **41** contribuții acceptate.
+În total, sunt **42** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
