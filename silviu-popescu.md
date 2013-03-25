@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anului 4
 
-Contribuții: **9**
+Contribuții: **18**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -20,5 +20,14 @@ Contribuții: **9**
 |15.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/12/467)|
 |15.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/17/11)|
 |15.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/11/323)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/12/478)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/12/112)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/21/761)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2317691/)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](http://marc.info/?l=linux-mm-commits&m=136381430028561&w=2)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2281941/)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](http://mailman.alsa-project.org/pipermail/alsa-devel/2013-March/060398.html)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/18/522)|
+|25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/16/59)|
 
 [kernel]: http://www.kernel.org "Linux kernel"
