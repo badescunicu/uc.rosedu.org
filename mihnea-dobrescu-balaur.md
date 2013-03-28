@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 3.
 
-Contribuții: **23**
+Contribuții: **25**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -34,6 +34,9 @@ Contribuții: **23**
 |11.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2247811/)|
 |11.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2247991/)|
 |11.03.2013|[Linux Kernel][kernel]|[commit](https://patchwork.kernel.org/patch/2248011/)|
+|28.03.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=793202)|
+|28.03.2013|[WoUSO][wouso]|[commit](https://github.com/rosedu/wouso/pull/348)|
 
 [mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
 [kernel]: http://www.kernel.org "Linux kernel"
+[wouso]: https://github.com/rosedu/wouso "World of USO"
