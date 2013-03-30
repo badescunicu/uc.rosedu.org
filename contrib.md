@@ -19,14 +19,14 @@ link-urile următoare:
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 1. [Andrei Duma][andrei-duma]
-1. [Bogdan Gabriel Ciobanu][bogdan-gabriel-ciobanu]
-2. [Cătălin Iordache][catalin-iordache]
-3. [Cătălin Ușurelu][catalin-usurelu]
-4. [Cristian Mocanu][cristian-mocanu]
-5. [Cosmin Boacă][cosmin-boaca]
-5. [Cosmin Clapon][cosmin-clapon]
-6. [Marius Ungureanu][marius-ungureanu]
-7. [Nicolae Bădescu][nicolae-badescu]
+2. [Bogdan Gabriel Ciobanu][bogdan-gabriel-ciobanu]
+3. [Cătălin Iordache][catalin-iordache]
+4. [Cătălin Ușurelu][catalin-usurelu]
+5. [Cristian Mocanu][cristian-mocanu]
+6. [Cosmin Boacă][cosmin-boaca]
+7. [Cosmin Clapon][cosmin-clapon]
+8. [Marius Ungureanu][marius-ungureanu]
+9. [Nicolae Bădescu][nicolae-badescu]
 
 În total, sunt **27** contribuții acceptate.
 
@@ -48,11 +48,11 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-3. [Alexandru Gheorghiu][alexandru-gheorghiu]
-4. [Andrei Epure][andrei-epure]
-2. [Claudiu Ghioc][claudiu-ghioc]
-1. [Silviu Popescu][silviu-popescu]
-4. [Valentin Ilie][valentin-ilie]
+1. [Alexandru Gheorghiu][alexandru-gheorghiu]
+2. [Andrei Epure][andrei-epure]
+3. [Claudiu Ghioc][claudiu-ghioc]
+4. [Silviu Popescu][silviu-popescu]
+5. [Valentin Ilie][valentin-ilie]
 
 În total, sunt **50** contribuții acceptate.
 
