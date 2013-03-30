@@ -43,6 +43,7 @@ detalii.
 * [Jeopardy][jeopy]
 * [Digikam][digikam]
 * [VmChecker][vmchecker]
+* [CMUSphinx][sphinx]
 * Alte proiecte vor fi anunțate în timp
 
 [reg]: /regulament "Regulament"
@@ -82,3 +83,4 @@ detalii.
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [digikam]: http://www.digikam.org/ "Digikam"
 [vmchecker]: https://github.com/vmchecker "VmChecker"
+[sphinx]: http://cmusphinx.sourceforge.net/ "CMUSphinx"
