@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 1-2.
 
-Contribuții: **6**
+Contribuții: **8**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -17,5 +17,8 @@ Contribuții: **6**
 | 3.03.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2035)|
 |11.03.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2036)|
 |30.03.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2044)|
+| 1.04.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2061)|
+| 1.04.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2060)|
+| 1.04.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2059)|
 
 [unknownhorizons]: http://www.unknown-horizons.org/ "Unknown Horizons"

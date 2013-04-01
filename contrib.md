@@ -28,7 +28,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 8. [Marius Ungureanu][marius-ungureanu]
 9. [Nicolae Bădescu][nicolae-badescu]
 
-În total, sunt **33** contribuții acceptate.
+În total, sunt **36** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
