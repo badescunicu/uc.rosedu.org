@@ -27,10 +27,11 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 7. [Cosmin Clapon][cosmin-clapon]
 8. [Georgiana Chelu][georgiana-chelu]
 9. [Marius Ungureanu][marius-ungureanu]
-10. [Nicolae Bădescu][nicolae-badescu]
-11. [Robert Bîndar][robert-bindar]
+10. [Mihai Varga][mihai-varga]
+11. [Nicolae Bădescu][nicolae-badescu]
+12. [Robert Bîndar][robert-bindar]
 
-În total, sunt **39** contribuții acceptate.
+În total, sunt **40** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -81,3 +82,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [cosmin-boaca]: /cosmin-boaca "Cosmin Boacă"
 [georgiana-chelu]: /georgiana-chelu "Georgiana Chelu"
 [robert-bindar]: /robert-bindar "Robert Bîndar"
+[mihai-varga]: /mihai-varga "Mihai Varga"
