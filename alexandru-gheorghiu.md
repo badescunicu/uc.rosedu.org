@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anului 4
 
-Contribuții: **20**
+Contribuții: **22**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -31,5 +31,7 @@ Contribuții: **20**
 |28.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/26/248)|
 |28.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/26/211)|
 |28.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/26/212)|
+|01.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/1/205)|
+|01.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/1/206)|
 
 [kernel]: http://www.kernel.org "Linux kernel"
