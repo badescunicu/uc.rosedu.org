@@ -28,6 +28,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 8. [Georgiana Chelu][georgiana-chelu]
 9. [Marius Ungureanu][marius-ungureanu]
 10. [Nicolae Bădescu][nicolae-badescu]
+11. [Robert Bîndar][robert-bindar]
 
 În total, sunt **36** contribuții acceptate.
 
@@ -79,3 +80,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [nicolae-badescu]: /nicolae-badescu "Nicolae Badescu"
 [cosmin-boaca]: /cosmin-boaca "Cosmin Boacă"
 [georgiana-chelu]: /georgiana-chelu "Georgiana Chelu"
+[robert-bindar]: /robert-bindar "Robert Bîndar"
