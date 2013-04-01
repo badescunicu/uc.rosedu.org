@@ -25,8 +25,9 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 5. [Cristian Mocanu][cristian-mocanu]
 6. [Cosmin Boacă][cosmin-boaca]
 7. [Cosmin Clapon][cosmin-clapon]
-8. [Marius Ungureanu][marius-ungureanu]
-9. [Nicolae Bădescu][nicolae-badescu]
+8. [Georgiana Chelu][georgiana-chelu]
+9. [Marius Ungureanu][marius-ungureanu]
+10. [Nicolae Bădescu][nicolae-badescu]
 
 În total, sunt **36** contribuții acceptate.
 
@@ -77,3 +78,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [bogdan-gabriel-ciobanu]: /bogdan-gabriel-ciobanu "Bogdan Gabriel Ciobanu"
 [nicolae-badescu]: /nicolae-badescu "Nicolae Badescu"
 [cosmin-boaca]: /cosmin-boaca "Cosmin Boacă"
+[georgiana-chelu]: /georgiana-chelu "Georgiana Chelu"
