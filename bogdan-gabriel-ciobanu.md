@@ -7,12 +7,15 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 1-2.
 
-Contribuții: **3**
+Contribuții: **6**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
 |29.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/43)|
 |29.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/64)|
 |29.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/30)|
+| 5.04.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/97)|
+| 5.04.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/90)|
+| 5.04.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/85)|
 
 [vmchecker]: https://github.com/vmchecker "VmChecker"
