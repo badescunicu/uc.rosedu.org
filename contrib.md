@@ -44,7 +44,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 2. [Mihnea Dobrescu-Balaur][mihnea-dobrescu-balaur]
 3. [Veaceslav Munteanu][veaceslav-munteanu]
 
-În total, sunt **44** contribuții acceptate.
+În total, sunt **45** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
