@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 1-2.
 
-Contribuții: **7**
+Contribuții: **8**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -18,6 +18,7 @@ Contribuții: **7**
 |25.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/commit/41a850eeab999f1b314e742b752518a0e5071be6)|
 |25.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/commit/a8ebf23e9ae0729679dc8469dd5dc19589720cf0)|
 | 1.04.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/91)|
+| 8.04.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/102)|
 
 [KDE]: http://www.kde.org/ "KDE"
 [digikam]: http://www.digikam.org/ "Digikam"
