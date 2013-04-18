@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 3.
 
-Contribuții: **11**
+Contribuții: **12**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -22,5 +22,6 @@ Contribuții: **11**
 |19.02.2013|[Wordpress][wordpress]|[commit](http://wp.tutsplus.com/tutorials/plugins/how-to-create-a-wordpress-avatar-management-plugin-from-scratch-getting-started/)|
 |21.02.2013|[Wordpress][wordpress]|[commit](http://core.trac.wordpress.org/ticket/23558)|
 |21.02.2013|[Wordpress][wordpress]|[commit](http://wp.tutsplus.com/tutorials/plugins/how-to-create-a-wordpress-avatar-management-plugin-from-scratch-finishing-touches/)|
+|18.04.2013|[Wordpress][wordpress]|[commit](http://core.trac.wordpress.org/ticket/22058)|
 
 [wordpress]: http://wordpress.org/ "Wordpress"
