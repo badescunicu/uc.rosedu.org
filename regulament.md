@@ -139,12 +139,15 @@ vor fi anunțate imediat.
 
 ##Premii
 
-Pentru fiecare dintre cele 3 track-uri, marele premiu va fi un Ultrabook
-oferit de Intel, sponsor principal.
+Pentru fiecare dintre cele 3 track-uri, marele premiu va fi un Ultrabook [Asus
+13.3” Zenbook Prime][ub] (model UX31A-C4032H) în valoare de 5.566,38 RON,
+oferit de Intel Romania, sponsor principal.
 
 Pe lângă marele premiu, vor exista premii speciale din partea sponsorilor
 pentru contribuții semnificative. Aceste premii pot fi globale, per track sau
 per proiect, la discreția celor care le oferă.
+
+Organizatorii și sponsorii nu se obligă să ofere garanție premiilor acordate.
 
 [ed1]: http://elf.cs.pub.ro/so/wiki/upstream-challenge "Upstream Challenge v0"
 [reg]: /regulament "Regulament"
@@ -159,3 +162,4 @@ per proiect, la discreția celor care le oferă.
 [firefly]: http://lists.rosedu.org/listinfo/firefly "Register on firefly@lists.rosedu.org"
 [techblog]: http://techblog.rosedu.org/ "ROSEdu Techblog"
 [talks]: http://talks.rosedu.org/ "ROSEdu Tech Talks"
+[ub]: http://www.asus.com/Notebooks_Ultrabooks/ASUS_ZENBOOK_UX31A/ "Asus Zenbook Prime"
