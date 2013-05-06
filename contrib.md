@@ -57,8 +57,9 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 3. [Claudiu Ghioc][claudiu-ghioc]
 4. [Silviu Popescu][silviu-popescu]
 5. [Valentin Ilie][valentin-ilie]
+6. [Diana Prăjescu][diana-prajescu]
 
-În total, sunt **63** contribuții acceptate.
+În total, sunt **64** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -85,3 +86,4 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 [robert-bindar]: /robert-bindar "Robert Bîndar"
 [mihai-varga]: /mihai-varga "Mihai Varga"
 [ionel-popescu]: /ionel-popescu "Ionel Popescu"
+[diana-prajescu]: /diana-prajescu "Diana Prăjescu"
