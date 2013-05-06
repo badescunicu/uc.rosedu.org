@@ -32,7 +32,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 12. [Nicolae Bădescu][nicolae-badescu]
 13. [Robert Bîndar][robert-bindar]
 
-În total, sunt **61** contribuții acceptate.
+În total, sunt **63** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
