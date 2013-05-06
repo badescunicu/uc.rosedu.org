@@ -60,7 +60,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 6. [Diana Prăjescu][diana-prajescu]
 7. [Dan Filimon][dan-filimon]
 
-În total, sunt **68** contribuții acceptate.
+În total, sunt **69** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
