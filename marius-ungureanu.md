@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 1-2.
 
-Contribuții: **7**
+Contribuții: **11**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -18,6 +18,10 @@ Contribuții: **7**
 |17.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/43)|
 |17.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/44)|
 |30.04.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/268)|
+|01.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/269)|
+|01.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/270)|
+|01.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/272)|
+|01.05.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/46)|
 
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [seegit]: https://github.com/Haacked/SeeGit "SeeGit"
