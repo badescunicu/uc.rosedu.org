@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 3.
 
-Contribuții: **32**
+Contribuții: **33**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -43,6 +43,7 @@ Contribuții: **32**
 | 6.04.2013|[WoUSO][wouso]|[commit](https://github.com/rosedu/wouso/pull/360)|
 | 3.05.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=868505)|
 | 3.05.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=868574)|
+| 3.05.2013|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=820989)|
 
 [mozilla]: https://wiki.mozilla.org/Main_Page "Mozilla Project"
 [kernel]: http://www.kernel.org "Linux kernel"
