@@ -59,7 +59,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 5. [Valentin Ilie][valentin-ilie]
 6. [Diana Prăjescu][diana-prajescu]
 
-În total, sunt **64** contribuții acceptate.
+În total, sunt **66** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
