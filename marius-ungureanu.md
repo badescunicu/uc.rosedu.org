@@ -25,7 +25,6 @@ Contribuții: **15**
 |03.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/273)|
 |03.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/274)|
 |04.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/275)|
-|04.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/276)|
 |04.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/277)|
 |05.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/278)|
 
