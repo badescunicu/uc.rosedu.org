@@ -19,6 +19,7 @@ Contribuții: **8**
 | 2.05.2013|[KDE][KDE]|[commit](http://quickgit.kde.org/?p=digikam.git&a=commit&h=364fc0fb8487cba3b8a693e0c09f914999ce2e8e)|
 | 2.05.2013|[KDE][KDE]|[commit](http://quickgit.kde.org/?p=digikam.git&a=commit&h=ffdd7c4b8b1540dc44bcdc92563f4f56d661d1b1)|
 | 9.05.2013|[KDE][KDE]|[commit](http://quickgit.kde.org/?p=digikam.git&a=commit&h=62cebe4aa27cf1fb4392c842a65a0e8a3c904586)|
+| 9.05.2013|[KDE][KDE]|[commit](ttp://quickgit.kde.org/?p=digikam.git&a=commit&h=a08eb5c983b7903bfc003eb774c9dd47e9a0ca6c)|
 
 [KDE]: http://www.kde.org/ "KDE"
 [digikam]: http://www.digikam.org/ "Digikam"

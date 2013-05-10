@@ -19,5 +19,6 @@ Contribuții: **8**
 |7.05.2013|[Mahout][mahout]|[commit](https://github.com/apache/mahout/commit/221b59509527fae2edb02f5857d947a1aad15bd8)|
 |9.05.2013|[Mahout][mahout]|[commit](https://github.com/apache/mahout/commit/873e3a05ce24e7e4f976ea679325f58712170130)|
 |9.05.2013|[Mahout][mahout]|[commit](https://reviews.apache.org/r/10194/)|
+|9.05.2013|[Mahout][mahout]|[commit](https://reviews.apache.org/r/10193/)|
 
 [mahout]: http://mahout.apache.org/ "Mahout"
