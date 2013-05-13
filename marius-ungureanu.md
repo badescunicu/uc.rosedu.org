@@ -29,6 +29,9 @@ Contribuții: **17**
 |05.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/278)|
 |09.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/279)|
 |09.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/280)|
+|13.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/281)|
+|13.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/282)|
+|13.05.2013|[MonoDevelop][mono]|[commit](https://github.com/mono/monodevelop/pull/283)|
 
 [jeopy]: https://github.com/dfilimon/Jeopy "Jeopardy"
 [seegit]: https://github.com/Haacked/SeeGit "SeeGit"
