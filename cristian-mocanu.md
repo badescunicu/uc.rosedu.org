@@ -26,6 +26,6 @@ Contribuții: **8**
 |14.05.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2100)|
 |14.05.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2101)|
 |14.05.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2102)|
-
+|15.05.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2103)|
 
 [unknownhorizons]: http://www.unknown-horizons.org/ "Unknown Horizons"

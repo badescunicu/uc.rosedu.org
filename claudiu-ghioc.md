@@ -17,6 +17,9 @@ Contribuții: **4**
 | 9.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/de3fa17ce12cb13a0d3c5c195bb536b9a152cc91)|
 | 9.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/8db72b0091ad228c91bcd2a288ce54a33a1cb9e9)|
 |14.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/1a7d89c1b45c0855cc0e6c6ba7227b8f31d257e1)|
+|15.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/d8bf4d331f30a97161bf456025936bfb4c645160)|
+|15.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/86d84984b1695da9733942717fdc2f685d86b766)|
+|15.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/7896bb9527f4b1dd547b8c7806121f76bce2b49a)|
 
 [kernel]: http://www.kernel.org "Linux kernel"
 [LiSA]: http://lisa.mindbit.ro "LiSA"
