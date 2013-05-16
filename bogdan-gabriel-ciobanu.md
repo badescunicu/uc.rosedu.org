@@ -20,5 +20,9 @@ Contribuții: **6**
 |15.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/130)|
 |15.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/127)|
 |15.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/132)|
+|16.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/133)|
+|16.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/142)|
+|16.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/143)|
+|16.05.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/144)|
 
 [vmchecker]: https://github.com/vmchecker "VmChecker"
