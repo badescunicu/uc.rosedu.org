@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anilor 1-2.
 
-Contribuții: **17**
+Contribuții: **26**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|

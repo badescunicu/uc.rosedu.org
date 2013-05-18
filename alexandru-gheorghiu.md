@@ -31,11 +31,11 @@ Contribuții: **26**
 |28.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/26/248)|
 |28.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/26/211)|
 |28.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/26/212)|
-|01.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/1/205)|
-|01.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/1/206)|
-|02.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/2/127)|
-|02.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/2/128)|
-|05.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/2/313)|
-|05.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/3/667)|
+| 1.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/1/205)|
+| 1.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/1/206)|
+| 2.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/2/127)|
+| 2.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/2/128)|
+| 5.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/2/313)|
+| 5.04.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/3/667)|
 
 [kernel]: http://www.kernel.org "Linux kernel"

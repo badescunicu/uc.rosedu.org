@@ -32,7 +32,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 12. [Nicolae Bădescu][nicolae-badescu]
 13. [Robert Bîndar][robert-bindar]
 
-În total, sunt **67** contribuții acceptate.
+În total, sunt **107** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -44,7 +44,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 2. [Mihnea Dobrescu-Balaur][mihnea-dobrescu-balaur]
 3. [Veaceslav Munteanu][veaceslav-munteanu]
 
-În total, sunt **52** contribuții acceptate.
+În total, sunt **54** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 
@@ -60,7 +60,7 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 6. [Diana Prăjescu][diana-prajescu]
 7. [Dan Filimon][dan-filimon]
 
-În total, sunt **81** contribuții acceptate.
+În total, sunt **94** contribuții acceptate.
 
 <div id="end">&nbsp;</div>
 

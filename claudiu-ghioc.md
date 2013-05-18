@@ -7,7 +7,7 @@ showsidebar: true
 
 Contribuitor pentru track-ul anului 4
 
-Contribuții: **4**
+Contribuții: **10**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|

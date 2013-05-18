@@ -7,14 +7,14 @@ showsidebar: true
 
 Contribuitor pentru track-ul anului 4
 
-Contribuții: **4**
+Contribuții: **8**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
-|06.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/149)|
-|09.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/152)|
-|09.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/153)|
-|09.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/154)|
+| 6.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/149)|
+| 9.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/152)|
+| 9.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/153)|
+| 9.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/154)|
 |14.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/159)|
 |14.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/160)|
 |17.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/168)|
