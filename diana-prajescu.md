@@ -17,5 +17,7 @@ Contribuții: **4**
 |09.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/154)|
 |14.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/159)|
 |14.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/160)|
+|17.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-framework/pull/168)|
+|17.05.2013|[Joomla][joomla]|[commit](https://github.com/joomla/joomla-cms/pull/1157)|
 
 [joomla]: https://github.com/joomla "Joomla"
