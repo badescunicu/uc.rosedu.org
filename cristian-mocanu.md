@@ -8,10 +8,11 @@ showsidebar: true
 Contribuitor pentru track-ul anilor 1-2.
 
 Contribuții: **16**
+
 Punctaj final: **122**
 
 |Data |Proiect | Patch |Dificultate|Impact|
-|-----|--------|-------|-----------|------|
+|-----|--------|-------|----------:|-----:|
 |23.02.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033)|5|1|
 |23.02.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2033 )|5|5|
 | 3.03.2013|[UnknownHorizons][unknownhorizons]|[commit](https://github.com/unknown-horizons/unknown-horizons/pull/2034)|1|1|

@@ -8,10 +8,11 @@ showsidebar: true
 Contribuitor pentru track-ul anilor 3.
 
 Contribuții: **12**
+
 Punctaj final: **110**
 
 |Data |Proiect | Patch |Dificultate|Impact|
-|-----|--------|-------|-----------|------|
+|-----|--------|-------|----------:|-----:|
 | 5.12.2012|[Wordpress][wordpress]|[commit](http://core.trac.wordpress.org/ticket/22667)|3|1|
 | 5.12.2012|[Wordpress][wordpress]|[commit](http://core.trac.wordpress.org/ticket/22693)|3|4|
 |13.12.2012|[Wordpress][wordpress]|[commit](http://core.trac.wordpress.org/ticket/19159)|5|8|

@@ -8,10 +8,11 @@ showsidebar: true
 Contribuitor pentru track-ul anilor 1-2.
 
 Contribuții: **26**
+
 Punctaj final: **176**
 
 |Data |Proiect | Patch |Dificultate|Impact|
-|-----|--------|-------|-----------|------|
+|-----|--------|-------|----------:|-----:|
 |10.01.2013|[Jeopardy][jeopy]|[commit](https://github.com/dfilimon/Jeopy/pull/26)|10|1|
 |12.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/39)|1|1|
 |12.03.2013|[SeeGit][seegit]|[commit](https://github.com/Haacked/SeeGit/pull/40)|1|1|

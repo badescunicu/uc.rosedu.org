@@ -8,6 +8,7 @@ showsidebar: true
 Contribuitor pentru track-ul anului 4
 
 Contribuții: **3**
+
 Punctaj final: **10**
 
 |Data |Proiect | Patch |
@@ -16,9 +17,9 @@ Punctaj final: **10**
 | 6.04.2013|[Linux Kernel][kernel]|[commit](https://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/commit/?h=staging-next&id=c6ac992b8f9225ac1aa6ac36cc5d7adb504a35ef)|
 | 8.04.2013|[Linux Kernel][kernel]|[commit](https://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/commit/?h=staging-next&id=dd7cc7e41825acd290fcd6aae08162ded5885693)|
 
-Proiect: [Linux Kernel][kernel]
-Pondere proiect: 2
-Distribuție patch-uri: 1 * 1p + 2 * 2p
-Total puncte proiect: 10p
+* Proiect: [Linux Kernel][kernel]
+  * Pondere proiect: 2
+  * Distribuție patch-uri: 1 * 1p + 2 * 2p
+  * Total puncte proiect: 10p
 
 [kernel]: http://www.kernel.org "Linux kernel"

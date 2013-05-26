@@ -8,6 +8,7 @@ showsidebar: true
 Contribuitor pentru track-ul anului 4
 
 Contribuții: **10**
+
 Punctaj final: **100.4**
 
 |Data |Proiect | Patch |
@@ -23,16 +24,15 @@ Punctaj final: **100.4**
 |15.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/7896bb9527f4b1dd547b8c7806121f76bce2b49a)|
 |16.05.2013|[LiSA][LiSA]|[commit](https://github.com/lisa-project/lisa-user/commit/2bb6c87d19ddb005999c048f4fae3ec3f02a4f82)|
 
-Proiect: [Linux Kernel][kernel]
-Pondere proiect: 2
-Distribuție patch-uri: 2 * 2p
-Total puncte proiect: 8p
+* Proiect: [Linux Kernel][kernel]
+  * Pondere proiect: 2
+  * Distribuție patch-uri: 2 * 2p
+  * Total puncte proiect: 8p
 
-Proiect: [LiSA][LiSA]
-Pondere proiect: 1.2
-Distribuție patch-uri: 2 * 5p + 1 * 7p + 4 * 10p + 1 * 20p
-Total puncte proiect: 92.4p
-
+* Proiect: [LiSA][LiSA]
+  * Pondere proiect: 1.2
+  * Distribuție patch-uri: 2 * 5p + 1 * 7p + 4 * 10p + 1 * 20p
+  * Total puncte proiect: 92.4p
 
 [kernel]: http://www.kernel.org "Linux kernel"
 [LiSA]: http://lisa.mindbit.ro "LiSA"

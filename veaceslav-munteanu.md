@@ -8,10 +8,11 @@ showsidebar: true
 Contribuitor pentru track-ul anilor 3.
 
 Contribuții: **9**
+
 Punctaj final: **120**
 
 |Data |Proiect | Patch |Dificultate|Impact|
-|-----|--------|-------|-----------|------|
+|-----|--------|-------|----------:|-----:|
 |27.02.2013|[Digikam][digikam]|[commit](https://git.reviewboard.kde.org/r/109087/)|8|8|
 |27.02.2013|[Digikam][digikam]|[commit](http://quickgit.kde.org/?p=libkexiv2.git&a=commit&h=f2c50255227852bcb83115f13bfc4d4394a780ed)|6|7|
 | 4.03.2013|[Digikam][digikam]|[commit](http://quickgit.kde.org/?p=digikam.git&a=commit&h=a69a8ea1635376fe3b68ee9f66721c55eeb06f86)|6|8|

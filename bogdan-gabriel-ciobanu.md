@@ -8,10 +8,11 @@ showsidebar: true
 Contribuitor pentru track-ul anilor 1-2.
 
 Contribuții: **30**
+
 Punctaj final: **203**
 
 |Data |Proiect | Patch |Dificultate|Impact|
-|-----|--------|-------|-----------|------|
+|-----|--------|-------|----------:|-----:|
 |29.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/43)|1|1|
 |29.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/64)|1|1|
 |29.03.2013|[VmChecker][vmchecker]|[commit](https://github.com/aismail/vmgui/pull/30)|5|1|

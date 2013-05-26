@@ -8,10 +8,11 @@ showsidebar: true
 Contribuitor pentru track-ul anilor 3.
 
 Contribuții: **33**
+
 Punctaj final: **223.5**
 
 |Data |Proiect | Patch |Dificultate|Impact|
-|-----|--------|-------|-----------|------|
+|-----|--------|-------|----------:|-----:|
 |13.12.2012|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=816035)|2|3|
 |13.12.2012|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=816216)|5|5|
 |13.12.2012|[Mozilla][mozilla]|[commit](https://bugzilla.mozilla.org/show_bug.cgi?id=819482)|3|3|

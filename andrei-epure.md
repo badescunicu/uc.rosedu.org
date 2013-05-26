@@ -8,6 +8,7 @@ showsidebar: true
 Contribuitor pentru track-ul anului 4.
 
 Contribuții: **13**
+
 Punctaj final: **54.4**
 
 |Data |Proiect | Patch |
@@ -26,15 +27,15 @@ Punctaj final: **54.4**
 |29.04.2013|[Jansson][jansson]|[commit](https://github.com/akheron/jansson/commit/f675514815323277dbffa15f1aba92bdbc704540)|
 |29.04.2013|[Jansson][jansson]|[commit](https://github.com/akheron/jansson/commit/5793142861b312bbe0694e00cf3404fc4fbe791a)|
 
-Proiect: [Linux Kernel][kernel]
-Pondere proiect: 2
-Distribuție patch-uri: 1 * 1p + 9 * 2p + 1 * 7p
-Total puncte proiect: 52p
+* Proiect: [Linux Kernel][kernel]
+  * Pondere proiect: 2
+  * Distribuție patch-uri: 1 * 1p + 9 * 2p + 1 * 7p
+  * Total puncte proiect: 52p
 
-Proiect: [Jansson][jansson]
-Pondere proiect: 1.2
-Distribuție patch-uri: 2 * 1p
-Total puncte proiect: 2.4p
+* Proiect: [Jansson][jansson]
+  * Pondere proiect: 1.2
+  * Distribuție patch-uri: 2 * 1p
+  * Total puncte proiect: 2.4p
 
 
 [kernel]: http://www.kernel.org "Linux kernel"
