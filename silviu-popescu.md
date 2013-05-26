@@ -8,6 +8,7 @@ showsidebar: true
 Contribuitor pentru track-ul anului 4
 
 Contribuții: **23**
+Punctaj final: **92**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -34,5 +35,10 @@ Contribuții: **23**
 |25.03.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/3/17/14)|
 | 7.05.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/4/11/505)|
 | 10.05.2013|[Linux Kernel][kernel]|[commit](https://lkml.org/lkml/2013/5/10/464)|
+
+Proiect: [Linux Kernel][kernel]
+Pondere proiect: 2
+Distribuție patch-uri: 23 * 2p
+Total puncte proiect: 92p
 
 [kernel]: http://www.kernel.org "Linux kernel"
