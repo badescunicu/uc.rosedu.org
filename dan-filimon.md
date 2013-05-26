@@ -8,6 +8,7 @@ showsidebar: true
 Contribuitor pentru track-ul anului 4
 
 Contribuții: **9**
+Punctaj final: **106.4**
 
 |Data |Proiect | Patch |
 |-----|--------|-------|
@@ -20,5 +21,10 @@ Contribuții: **9**
 | 9.05.2013|[Mahout][mahout]|[commit](https://github.com/apache/mahout/commit/873e3a05ce24e7e4f976ea679325f58712170130)|
 |17.05.2013|[Mahout][mahout]|[commit](https://github.com/apache/mahout/commit/4faa1f79320275b08f6c5cbc50a7620fe473f407)|
 |17.05.2013|[Mahout][mahout]|[commit](https://github.com/apache/mahout/commit/cd35caab87f759408957b671bb0cad59ec6c07c6)|
+
+Proiect: [Mahout][mahout]
+Pondere proiect: 1.4
+Distribuție patch-uri: 2 * 2p + 3 * 5p + 1 * 7p + 1 * 10p + 2 * 20p
+Total puncte proiect: 106.4p
 
 [mahout]: http://mahout.apache.org/ "Mahout"
