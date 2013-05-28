@@ -18,19 +18,19 @@ link-urile următoare:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. [Andrei Duma][andrei-duma]
-2. [Bogdan Gabriel Ciobanu][bogdan-gabriel-ciobanu]
-3. [Cătălin Iordache][catalin-iordache]
-4. [Cătălin Ușurelu][catalin-usurelu]
-5. [Cristian Mocanu][cristian-mocanu]
-6. [Cosmin Boacă][cosmin-boaca]
-7. [Cosmin Clapon][cosmin-clapon]
-8. [Georgiana Chelu][georgiana-chelu]
-9. [Ionel Popescu][ionel-popescu]
-10. [Marius Ungureanu][marius-ungureanu]
-11. [Mihai Varga][mihai-varga]
-12. [Nicolae Bădescu][nicolae-badescu]
-13. [Robert Bîndar][robert-bindar]
+1. [Andrei Duma][andrei-duma] (punctaj 74p)
+2. [Bogdan Gabriel Ciobanu][bogdan-gabriel-ciobanu] (punctaj 203p)
+3. [Cătălin Iordache][catalin-iordache] (punctaj 8p)
+4. [Cătălin Ușurelu][catalin-usurelu] (punctaj 19p)
+5. [Cristian Mocanu][cristian-mocanu] (punctaj 122p)
+6. [Cosmin Boacă][cosmin-boaca] (punctaj 80p)
+7. [Cosmin Clapon][cosmin-clapon] (punctaj 10.5p)
+8. [Georgiana Chelu][georgiana-chelu] (punctaj 2p)
+9. [Ionel Popescu][ionel-popescu] (punctaj 16p)
+10. [Marius Ungureanu][marius-ungureanu] (punctaj 176p)
+11. [Mihai Varga][mihai-varga] (punctaj 21p)
+12. [Nicolae Bădescu][nicolae-badescu] (punctaj 10p)
+13. [Robert Bîndar][robert-bindar] (punctaj 10p)
 
 În total, sunt **107** contribuții acceptate.
 
@@ -40,9 +40,9 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. [Cătălin Dogaru][catalin-dogaru]
-2. [Mihnea Dobrescu-Balaur][mihnea-dobrescu-balaur]
-3. [Veaceslav Munteanu][veaceslav-munteanu]
+1. [Cătălin Dogaru][catalin-dogaru] (punctaj 110p)
+2. [Mihnea Dobrescu-Balaur][mihnea-dobrescu-balaur] (punctaj 223.5p)
+3. [Veaceslav Munteanu][veaceslav-munteanu] (punctaj 120p)
 
 În total, sunt **54** contribuții acceptate.
 
@@ -52,13 +52,13 @@ Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
 Următoarele persoane s-au înregistrat în concurs pentru acest track:
 
-1. [Alexandru Gheorghiu][alexandru-gheorghiu]
-2. [Andrei Epure][andrei-epure]
-3. [Claudiu Ghioc][claudiu-ghioc]
-4. [Silviu Popescu][silviu-popescu]
-5. [Valentin Ilie][valentin-ilie]
-6. [Diana Prăjescu][diana-prajescu]
-7. [Dan Filimon][dan-filimon]
+1. [Alexandru Gheorghiu][alexandru-gheorghiu] (punctaj 102p)
+2. [Andrei Epure][andrei-epure] (punctaj 54.4p)
+3. [Claudiu Ghioc][claudiu-ghioc] (punctaj 100.4p)
+4. [Silviu Popescu][silviu-popescu] (punctaj 92p)
+5. [Valentin Ilie][valentin-ilie] (punctaj 10p)
+6. [Diana Prăjescu][diana-prajescu] (punctaj 114p)
+7. [Dan Filimon][dan-filimon] (punctaj 106.4p)
 
 În total, sunt **92** contribuții acceptate.
 
