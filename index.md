@@ -3,7 +3,9 @@ layout: base
 showsidebar: true
 ---
 
-# Upstream Challenge
+# 2014 Edition Coming Soon
+
+#### Upstream Challenge
 
 În ultimii ani, contribuțiile în Open Source ale studenților UPB sunt din în
 ce în ce mai vizibile. Cu sprijinul comunităților locale, al partenerilor din
@@ -20,7 +22,7 @@ trecut][ed1], Upstream Challenge este un concurs dedicat studenților pentru a
 Consultați [regulamentul][reg] și [resursele][res] disponibile, incluzând
 [lista de contribuții][contrib] și un număr de [proiecte propuse][proj].
 
-## Durata
+#### Durata
 
 Concursul se va desfășura în perioada 27 noiembrie 2012 - 17 mai 2013.
 
