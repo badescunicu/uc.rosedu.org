@@ -23,6 +23,7 @@ detalii.
 * [Wordpress][wordpress]
 * [RVM][rvm]
 * [Puma][puma]
+* [GitLab][gitlab]
 * [Ruby on Rails][ror]
 * [Metasploit][metasploit]
 * [Crosstool NG][crosstool]
@@ -63,6 +64,7 @@ detalii.
 [wordpress]: http://wordpress.org/ "Wordpress"
 [rvm]: https://rvm.io/ "RVM"
 [puma]: http://puma.io/ "Puma"
+[gitlab]: https://github.com/gitlabhq/gitlabhq "GitLab"
 [ror]: http://rubyonrails.org/ "Ruby on Rails"
 [metasploit]: http://www.metasploit.com/ "Metasploit"
 [crosstool]: http://crosstool-ng.org/ "Crosstool NG"
